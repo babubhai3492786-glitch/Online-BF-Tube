@@ -3,10 +3,11 @@
   "versionName": "1.1",
   "title": "Important Update Required",
   "forceUpdate": true,
+  "apkSize": 20971520,
   "changes": [
     "Download speed improved",
     "MP3 downloader fixed",
     "Codec issue fixed"
   ],
-  "apkUrl": "https://github.com/USERNAME/REPOSITORY/releases/download/v1.1/app-release.apk"
+  "apkUrl": "https://github.com/babubhai3492786-glitch/Online-BF-Tube/releases/download/v1.1/app-release.apk"
 }
