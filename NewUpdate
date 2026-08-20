@@ -3,6 +3,7 @@
   "versionName": "9.0.2 Ultimate Edition Pro",
   "title": "Important Update Required",
   "forceUpdate": true,
+  "sha256": "YAHAN_RELEASE_APK_KA_SHA256",
   "changes": [
     "Download speed improved",
     "MP3 downloader fixed",
